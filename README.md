@@ -1,3 +1,4 @@
+## Hey there 👋
 ```javascript
 const Dev = {
    
@@ -46,3 +47,8 @@ const InProgress = {
 //Thanks for Reading!
 
 ```
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NathanWong1106&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanWong1106&theme=radical&hide=ShaderLab,HLSL&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<sub>Made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra)</sub>
