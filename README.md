@@ -1,16 +1,48 @@
-### Hi there 👋
+```javascript
+const Dev = {
+   
+   name: "Nathan",
+   
+   status: procrastinating ? "school/coding" : "sleeping",
+   
+   education: "Gr. 12 at Bur Oak Secondary School",
+   
+   location: "Ontario, Canada",
+   
+   catchPhrase: "Please work... ;-;"
+   
+}
 
-<!--
-**NathanWong1106/NathanWong1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const Skills = {
+    
+    languages: ["C#", "Java", "Python", "JavaScript", "HTML/Jinja", "CSS"],
+    
+    frameworks: ["React-Native", "Node", "Django"],
+    
+    databases: ["SQLite", "MongoDB"],
+    
+    gameEngines: ["Unity"],
+    
+    ide: ["Visual Studio", "VSCode", "Eclipse"]
+    
+}
 
-Here are some ideas to get you started:
+const Experience = {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    coop: ["C# and Unity Software Developer"],
+    
+    hackathons: ["Hack the North 2020++"]
+    
+}
+
+const InProgress = {
+
+    skills: ["ML", "Reading Game-Design-Patterns", "C++"],
+    
+    projects: ["SRT-From-TTS", "2D Platformer on Unity", "Whatever wacky ideas I can think of"],
+    
+}
+
+//Thanks for Reading!
+
+```
