@@ -10,8 +10,6 @@ const Dev = {
    
    location: "Ontario, Canada",
    
-   catchPhrase: "Please work... ;-;"
-   
 }
 
 const Skills = {
@@ -40,7 +38,7 @@ const InProgress = {
 
     skills: ["ML", "Reading Game-Design-Patterns", "C++"],
     
-    projects: ["SRT-From-TTS", "2D Platformer on Unity", "Whatever wacky ideas I can think of"],
+    projects: ["SRT-From-STT", "2D Platformer on Unity", "Whatever wacky ideas I can think of"],
     
 }
 
