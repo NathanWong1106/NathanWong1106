@@ -16,7 +16,7 @@ const Skills = {
     
     languages: ["C#", "Java", "Python", "JavaScript", "HTML/Jinja", "CSS"],
     
-    frameworks: ["React-Native", "Node", "Django"],
+    frameworks: ["React-Native/Reactjs", "Node", "Django"],
     
     databases: ["SQLite", "MongoDB"],
     
