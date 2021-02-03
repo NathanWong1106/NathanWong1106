@@ -34,12 +34,8 @@ const Experience = {
     
 }
 
-const InProgress = {
-
-    skills: ["ML", "Reading Game-Design-Patterns", "C++"],
-    
-    projects: ["SRT-From-STT", "2D Platformer on Unity", "Whatever wacky ideas I can think of"],
-    
+const InProgress = {    
+    projects: ["Practicing React and Firebase"],
 }
 
 //Thanks for Reading!
