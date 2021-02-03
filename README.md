@@ -35,7 +35,9 @@ const Experience = {
 }
 
 const InProgress = {    
+
     projects: ["Practicing React and Firebase"],
+    
 }
 
 //Thanks for Reading!
