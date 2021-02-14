@@ -36,7 +36,7 @@ const Experience = {
 
 const InProgress = {    
 
-    projects: ["Practicing React and Firebase"],
+    projects: ["Practicing React and Firebase", "Leetcoding :)"],
     
 }
 
