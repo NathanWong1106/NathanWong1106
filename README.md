@@ -44,5 +44,9 @@
    <sub>
    p.s. I'm constantly trying to improve and often die on the inside when looking at my old code... so uh yeah... please avert your eyes from some <b><i>very</i></b> questionable design decisions. I'll personally travel back in time to shout at myself for them :)  
    </sub>
+   <br>
+   <sub>
+   The only reason this bio looks passable: <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+   </sub>
    </p>
    
