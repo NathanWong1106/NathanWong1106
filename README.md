@@ -2,7 +2,7 @@ Hey, I'm Nathan!
 ---
 
 ### About Me
-I'm a fourth year Computer Science student at the University of Toronto. For hobbies and projects I like to develop any kind of software (frontend with Angular, backend with Express, games with Unity, Discord bots with js, ...) and currently, my main interest is in DevOps and developing tools for developers.
+I'm a fourth year Computer Science student at the University of Toronto. For hobbies and projects I like to develop any kind of software (frontend with Angular, backend with Express, games with Unity, Discord bots with js, ...). Currently, my main interests are in learning more about DevOps processes and tools.
 
 On the professional side of things, I have co-op experience working as a Software Developer on the Cloud team at Caseware and part-time as a Unity developer at Genexis Design Inc.
 
