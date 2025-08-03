@@ -2,9 +2,12 @@ Hey, I'm Nathan!
 ---
 
 ### About Me
-I'm a fourth year Computer Science student at the University of Toronto. For hobbies and projects I like to develop any kind of software (frontend with Angular, backend with Express, games with Unity, Discord bots with js, ...). Currently, I'm working as a Software Developer at Oracle NetSuite.
+I'm a fourth year Computer Science student at the University of Toronto. For hobbies and projects I like to develop any kind of software (frontend with Angular, backend with Express, games with Unity, Discord bots with js, ...).
 
-On the professional side of things, I have co-op experience working as a Software Developer on the Cloud team at Caseware and part-time as a Unity developer at Genexis Design Inc.
+On the professional side of things, I have co-op experience in the following roles:
+- Software Developer Co-op at Oracle NetSuite
+- Software Developer Co-op on the Cloud team at Caseware
+- Software Developer Co-op at Genexis Design Inc. (part time)
 
 ### Tech:
 Of course, the obligatory section listing some of the technologies I've had the chance to use.
